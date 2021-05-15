@@ -1,0 +1,47 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-03-17T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 7,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0x094616f0bdfb0b526bd735bf66eca0ad254ca81f",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0x0fab15194b0256569111cf96d8eac5ec5ae9adc5",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+    },
+    {
+      "name": "PancakeSwap Token",
+      "symbol": "CAKE",
+      "address": "0x9bf197b24d5ED707fea72eb244E9A1CD848578Ef",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+    {
+      "name": "Foo Token",
+      "symbol": "FOO",
+      "address": "0xf10b0689202ff39e72f2e05a8368813b601b781f",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xc40c9a843e1c6d01b7578284a9028854f6683b1b.png"
+    }
+  ]
+}
