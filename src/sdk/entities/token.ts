@@ -71,4 +71,11 @@ export const WETH = {
     'WBNB',
     'Wrapped BNB'
   )
+  [ChainId.BSCTESTNET]: new Token(
+    ChainId.BSCTESTNET,
+    '0x029Bef63A9aD0FA15BD390fCb4FC8D22b8FD3249',
+    18,
+    'VRMC',
+    'VRMetaCenter'
+  )
 }
