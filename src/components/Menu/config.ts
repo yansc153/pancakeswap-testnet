@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://pancake-test.pages.dev',
+    href: 'https://vrmc-testnet.vercel.app/',
   },
   {
     label: 'Trade',
@@ -24,7 +24,7 @@ const config: MenuEntry[] = [
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://pancake-test.pages.dev/pools',
+    href: 'https://vrmc-testnet.vercel.app/pools',
   }
 ]
 
